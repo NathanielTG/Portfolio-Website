@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "Inconsolata";
-    src: url("/Inconsolata/Inconsolata-VariableFont_wdth\,wght.ttf") format("truetype");
+    src: url("Inconsolata/Inconsolata-VariableFont_wdth\,wght.ttf") format("truetype");
 }
 
 body {
